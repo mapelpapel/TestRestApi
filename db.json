@@ -3,5 +3,5 @@
   "exp": 1583487779,
   "iss": "https://stp.dev.cloud.stp.ag/identity",
   "aud": "um.id",
-  "client_id": "um.id.admin.spa",
+  "client_id": "um.id.admin.spa"
 }
