@@ -1,6 +1,6 @@
 {
     "test": "Test",
-    "data": [
+    "data": {
         "nbf": 1583484179,
         "exp": 1583487779,
         "iss": "https://stp.dev.cloud.stp.ag/identity",
@@ -43,5 +43,5 @@
         "amr": [
           "pwd"
         ]
-  ]
+    }
 }
